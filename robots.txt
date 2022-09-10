@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+https://allmix.github.io/living-room/sitemapx.xml
